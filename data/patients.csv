@@ -1,0 +1,51 @@
+﻿PATIENT_ID,FULL_NAME,AGE,GENDER,WARD,BED_NUMBER,BLOOD_GROUP,ALLERGIES,CRITICAL_DIAGNOSIS,CURRENT_MEDICATIONS,RECENT_INVESTIGATIONS,RECENT_RESULTS,LAST_SYNCHRONIZED,RECORD_VERSION
+P0001,Aarav Kumar,59,Male,Endocrinology,05-08,B-,Penicillin,Asthma,Salbutamol inhaler,ECG,Within expected range,2026-09-21T18:00:00,V1
+P0002,Arjun Kumar,54,Male,Endocrinology,07-08,O-,Ibuprofen,Iron Deficiency Anemia,Ferrous sulfate,ECG,No acute abnormality,2026-09-21T18:00:00,V1
+P0003,Aditya Kumar,25,Male,General Medicine,06-12,AB+,Aspirin,Type 2 Diabetes Mellitus,Metformin,Medication review,No acute abnormality,2026-09-21T18:00:00,V1
+P0004,Vikram Kumar,55,Male,General Medicine,01-08,AB+,Sulfa drugs,Hypertension,Amlodipine,ECG,No acute abnormality,2026-09-21T18:00:00,V1
+P0005,Rahul Kumar,41,Male,Cardiology,02-20,B+,Sulfa drugs,COPD,Tiotropium,Medication review,Mildly elevated,2026-09-21T18:00:00,V1
+P0006,Karthik Kumar,62,Female,Emergency,01-11,O+,Penicillin,Hypothyroidism,Levothyroxine,Ultrasound,Requires follow-up,2026-09-21T18:00:00,V1
+P0007,Rohan Kumar,28,Female,Emergency,05-19,O+,Aspirin,Iron Deficiency Anemia,Ferrous sulfate,Blood test,Within expected range,2026-09-21T18:00:00,V1
+P0008,Sanjay Kumar,28,Male,Neurology,02-13,O+,Aspirin,Iron Deficiency Anemia,Ferrous sulfate,Medication review,No acute abnormality,2026-09-21T18:00:00,V1
+P0009,Pranav Kumar,68,Female,Cardiology,07-06,O-,Ibuprofen,Type 2 Diabetes Mellitus,Metformin,Medication review,Mildly elevated,2026-09-21T18:00:00,V1
+P0010,Surya Kumar,28,Female,Respiratory,01-20,AB-,Penicillin,Hyperlipidemia,Atorvastatin,Blood test,Within expected range,2026-09-21T18:00:00,V1
+P0011,Ananya Kumar,65,Female,Respiratory,03-05,O-,Sulfa drugs,COPD,Tiotropium,ECG,No acute abnormality,2026-09-21T18:00:00,V1
+P0012,Diya Kumar,44,Female,Respiratory,08-04,B-,Penicillin,Coronary Artery Disease,Aspirin,Blood test,Within expected range,2026-09-21T18:00:00,V1
+P0013,Ishita Kumar,64,Male,General Medicine,01-11,A-,Sulfa drugs,COPD,Tiotropium,Medication review,Requires follow-up,2026-09-21T18:00:00,V1
+P0014,Kavya Kumar,34,Female,Emergency,02-04,O+,Aspirin,Chronic Kidney Disease,Furosemide,Blood test,Within expected range,2026-09-21T18:00:00,V1
+P0015,Meera Kumar,44,Female,Emergency,04-07,O-,Aspirin,Asthma,Salbutamol inhaler,Ultrasound,Within expected range,2026-09-21T18:00:00,V1
+P0016,Nithya Kumar,22,Male,Emergency,03-14,O-,Sulfa drugs,Hyperlipidemia,Atorvastatin,Chest X-ray,Requires follow-up,2026-09-21T18:00:00,V1
+P0017,Pooja Kumar,37,Female,Endocrinology,08-05,B-,Sulfa drugs,Hypothyroidism,Levothyroxine,Blood test,Within expected range,2026-09-21T18:00:00,V1
+P0018,Priya Kumar,56,Female,Respiratory,03-02,A-,Penicillin,Asthma,Salbutamol inhaler,ECG,Within expected range,2026-09-21T18:00:00,V1
+P0019,Sneha Kumar,58,Male,Endocrinology,06-09,B-,Sulfa drugs,Chronic Kidney Disease,Furosemide,Chest X-ray,Within expected range,2026-09-21T18:00:00,V1
+P0020,Aishwarya Kumar,19,Female,Respiratory,02-03,B-,Ibuprofen,COPD,Tiotropium,Ultrasound,No acute abnormality,2026-09-21T18:00:00,V1
+P0021,Aarav Sharma,58,Male,Respiratory,05-04,B+,Penicillin,Hypothyroidism,Levothyroxine,Chest X-ray,Mildly elevated,2026-09-21T18:00:00,V1
+P0022,Arjun Sharma,62,Female,Neurology,05-02,A-,Ibuprofen,Epilepsy,Levetiracetam,ECG,Requires follow-up,2026-09-21T18:00:00,V1
+P0023,Aditya Sharma,54,Female,General Medicine,02-03,B+,Penicillin,COPD,Tiotropium,Chest X-ray,No acute abnormality,2026-09-21T18:00:00,V1
+P0024,Vikram Sharma,76,Male,Emergency,04-04,AB-,Aspirin,COPD,Tiotropium,ECG,No acute abnormality,2026-09-21T18:00:00,V1
+P0025,Rahul Sharma,69,Female,Endocrinology,04-09,B+,Aspirin,Hypertension,Amlodipine,Chest X-ray,No acute abnormality,2026-09-21T18:00:00,V1
+P0026,Karthik Sharma,71,Male,General Medicine,04-13,AB-,Penicillin,Hypothyroidism,Levothyroxine,Medication review,No acute abnormality,2026-09-21T18:00:00,V1
+P0027,Rohan Sharma,20,Male,Emergency,05-02,A-,Aspirin,Iron Deficiency Anemia,Ferrous sulfate,Ultrasound,Mildly elevated,2026-09-21T18:00:00,V1
+P0028,Sanjay Sharma,35,Male,Neurology,01-17,B-,Aspirin,Chronic Kidney Disease,Furosemide,Blood test,No acute abnormality,2026-09-21T18:00:00,V1
+P0029,Pranav Sharma,51,Female,Neurology,06-13,AB+,Sulfa drugs,COPD,Tiotropium,Medication review,No acute abnormality,2026-09-21T18:00:00,V1
+P0030,Surya Sharma,44,Male,Cardiology,04-14,AB-,Aspirin,Hyperlipidemia,Atorvastatin,ECG,Within expected range,2026-09-21T18:00:00,V1
+P0031,Ananya Sharma,37,Female,Emergency,05-08,B-,Penicillin,Asthma,Salbutamol inhaler,Ultrasound,Requires follow-up,2026-09-21T18:00:00,V1
+P0032,Diya Sharma,75,Male,Neurology,08-13,B-,Penicillin,Asthma,Salbutamol inhaler,Medication review,Requires follow-up,2026-09-21T18:00:00,V1
+P0033,Ishita Sharma,22,Male,Neurology,03-15,AB-,None known,Hyperlipidemia,Atorvastatin,Ultrasound,No acute abnormality,2026-09-21T18:00:00,V1
+P0034,Kavya Sharma,67,Male,Cardiology,08-08,AB+,Penicillin,Hyperlipidemia,Atorvastatin,Blood test,Mildly elevated,2026-09-21T18:00:00,V1
+P0035,Meera Sharma,28,Male,Endocrinology,03-07,A-,Aspirin,Epilepsy,Levetiracetam,Ultrasound,Requires follow-up,2026-09-21T18:00:00,V1
+P0036,Nithya Sharma,76,Male,Neurology,08-01,AB-,Aspirin,Hypothyroidism,Levothyroxine,ECG,Requires follow-up,2026-09-21T18:00:00,V1
+P0037,Pooja Sharma,33,Female,Neurology,01-13,AB-,Sulfa drugs,Epilepsy,Levetiracetam,Medication review,Within expected range,2026-09-21T18:00:00,V1
+P0038,Priya Sharma,24,Female,Neurology,03-02,AB+,Ibuprofen,Epilepsy,Levetiracetam,Chest X-ray,Requires follow-up,2026-09-21T18:00:00,V1
+P0039,Sneha Sharma,35,Male,General Medicine,01-12,B-,Penicillin,Hypertension,Amlodipine,ECG,Requires follow-up,2026-09-21T18:00:00,V1
+P0040,Aishwarya Sharma,61,Male,Emergency,08-09,AB-,None known,Asthma,Salbutamol inhaler,Medication review,Requires follow-up,2026-09-21T18:00:00,V1
+P0041,Aarav Reddy,44,Male,Respiratory,04-04,AB+,Penicillin,Iron Deficiency Anemia,Ferrous sulfate,Medication review,No acute abnormality,2026-09-21T18:00:00,V1
+P0042,Arjun Reddy,19,Female,General Medicine,07-12,O-,Aspirin,Asthma,Salbutamol inhaler,Ultrasound,Requires follow-up,2026-09-21T18:00:00,V1
+P0043,Aditya Reddy,46,Female,Emergency,02-09,O-,Aspirin,Coronary Artery Disease,Aspirin,Ultrasound,Mildly elevated,2026-09-21T18:00:00,V1
+P0044,Vikram Reddy,41,Female,Cardiology,05-18,A+,Sulfa drugs,COPD,Tiotropium,ECG,Requires follow-up,2026-09-21T18:00:00,V1
+P0045,Rahul Reddy,60,Female,General Medicine,02-10,B-,Sulfa drugs,Epilepsy,Levetiracetam,Chest X-ray,Requires follow-up,2026-09-21T18:00:00,V1
+P0046,Karthik Reddy,66,Female,Endocrinology,08-09,AB+,Sulfa drugs,Hypothyroidism,Levothyroxine,ECG,Mildly elevated,2026-09-21T18:00:00,V1
+P0047,Rohan Reddy,32,Female,Endocrinology,05-04,B-,Sulfa drugs,Hypothyroidism,Levothyroxine,Chest X-ray,Within expected range,2026-09-21T18:00:00,V1
+P0048,Sanjay Reddy,22,Female,Emergency,08-04,A+,Ibuprofen,Iron Deficiency Anemia,Ferrous sulfate,Chest X-ray,Requires follow-up,2026-09-21T18:00:00,V1
+P0049,Pranav Reddy,26,Male,Neurology,02-19,A+,Sulfa drugs,Asthma,Salbutamol inhaler,Medication review,Mildly elevated,2026-09-21T18:00:00,V1
+P0050,Surya Reddy,68,Female,Neurology,05-19,O+,None known,Hypothyroidism,Levothyroxine,ECG,No acute abnormality,2026-09-21T18:00:00,V1
