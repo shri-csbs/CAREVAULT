@@ -1,0 +1,8 @@
+{
+  "name": "Remix CareVault Hospital Dashboard",
+    "description": "Healthcare staff dashboard for secure patient event tracking, RFID and biometric verification, offline sync, reconciliation, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
